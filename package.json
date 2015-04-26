@@ -9,5 +9,10 @@
 	"repository": {
 	  "type": "git",
 	  "url": "https://github.com/TDLive/node-nwd.git"
-	 }
+	},
+	"homepage": "https://github.com/TDLive/node-nwd",
+	"bugs": {
+		"url": "https://github.com/TDLive/node-nwd/issues"
+	},
+	"license": "GPL-3.0"
 }

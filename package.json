@@ -1,0 +1,13 @@
+{
+	"name": "node-nwd",
+	"author": "Sweeti Alexandra (http://sw.eeti.me/)",
+	"version": "0.1.0",
+	"description": "node.js library for parsing and manipulating Nimble Writer documents",
+	"dependencies": {
+		"node-zip": "~1.1.0"
+	},
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/TDLive/node-nwd.git"
+	 }
+}

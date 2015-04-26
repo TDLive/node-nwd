@@ -46,7 +46,7 @@ The raw zip file as interpreted by JSZip
 This changes the title of the chapter identified as `chapterCode`.
 #### Function `response.setChapterText(String chapterCode, String text, Function callback)`
 This changes the text of the chapter identified as `chapterCode`.
-#### Function `response.createNiceChapterCode(Function callback)`
+#### Function `String response.createNiceChapterCode()`
 Creates a nice `chapterCode` from an ID.
 
 ## License
